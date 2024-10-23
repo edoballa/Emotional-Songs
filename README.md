@@ -41,7 +41,7 @@ L'applicazione utilizza diversi file di dati per memorizzare le informazioni:
 - `bin/`: Contiene il codice compilato.
 - `data/`: Contiene i file di dati (canzoni, utenti, playlist, emozioni).
 - `doc/`: Contiene la documentazione (manuale utente e tecnico).
-ATTENZIONE: Per motivi di build della jar i file eseguibili non si trovano nella cartella bin, ma sono nelle cartelle compresse dei rispettivi progetti.
+- ATTENZIONE: Per motivi di build della jar i file eseguibili non si trovano nella cartella bin, ma sono nelle cartelle compresse dei rispettivi progetti.
 
 ## Requisiti Tecnici
 
@@ -62,12 +62,12 @@ ATTENZIONE: Per motivi di build della jar i file eseguibili non si trovano nella
 - Scompattare la cartella compressa e accedere alla cartella Server-Lab-B
 - Aprire il command prompt e lanciare il comando cd {path}/Server-Lab-B sostituendo a {path} il path corretto, nel mio caso : cd C:\Users\Edoardo\OneDrive\University\Laboratorio_B\Server-Lab-B
 - Lanciare il comando java -jar shadeEmotionalSongs.jar per avviare il server
-**Attenzione:** la finestra del command prompt NON va chiusa.
+- **Attenzione:** la finestra del command prompt NON va chiusa.
 
 **CLIENT**
 - Il client non partirà se il server non è acceso
 - Scompattare la cartella compressa e accedere alla cartella Lab.B all’interno della cartella Client
 - Aprire il command prompt e lanciare il comando cd {path}/Client/Lab.B sostituendo a {path} il path corretto, nel mio caso: cd C:\Users\Edoardo\Desktop\University\Laboratorio_B\Lab.B
 - Lanciare il comando java –jar shadeEmotionalSongs.jar per avviare il client
-**Attenzione:** la finestra del command prompt NON va chiusa.
-**Attenzione:** se quando si avvia l’applicazione con il comando viene loggata un’eccezione del genere potrebbe significare che il server non è acceso. Per maggiori dettagli consulta la documentazione.
+- **Attenzione:** la finestra del command prompt NON va chiusa.
+- **Attenzione:** se quando si avvia l’applicazione con il comando viene loggata un’eccezione del genere potrebbe significare che il server non è acceso. Per maggiori dettagli consulta la documentazione.
