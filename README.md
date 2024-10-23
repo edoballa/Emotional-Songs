@@ -4,7 +4,7 @@
 
 Emotional Songs è un progetto sviluppato nell'ambito del Laboratorio Interdisciplinare A e B presso l'Università degli Studi dell'Insubria. L'obiettivo dell'applicazione è permettere agli utenti di creare playlist musicali e annotare le emozioni suscitate da ciascun brano, offrendo una panoramica aggregata delle emozioni provate durante l'ascolto di diverse canzoni.
 
-## Functionalità
+## Funzionalità
 
 - **Consultazione del repository di canzoni**: Gli utenti possono cercare brani per titolo, autore o anno senza necessità di registrazione.
 - **Registrazione e autenticazione**: Gli utenti possono registrarsi e accedere al sistema per creare playlist personalizzate.
