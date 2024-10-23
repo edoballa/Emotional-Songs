@@ -55,8 +55,8 @@ ATTENZIONE: Per motivi di build della jar i file eseguibili non si trovano nella
 - Scompattare la cartella compressa e accedere alla cartella Lab-B-Server all’interno della cartella DbInit
 - Aprire il command prompt e lanciare il comando cd {path}/DbInit/Lab-B-Server sostituendo a {path} il path corretto, nel mio caso : cd C:\Users\Edoardo\OneDrive\University\Laboratorio_B\Lab-B-Server
 - Lanciare il comando java –jar shadeEmotionalSongs.jar per avviare il db-init
-**Attenzione:** la finestra del command prompt NON va chiusa
-**Attenzione:** se quando si avvia l’applicazione con il comando viene loggata un’eccezione del genere potrebbe significare che c’è un utente che sta usando il database dbes, è necessario scollegare l’utente per configurare il database. Inoltre è necessario chiudere e riavviare l’applicazione. Per maggiori dettagli consulta la documentazione.
+- **Attenzione:** la finestra del command prompt NON va chiusa
+- **Attenzione:** se quando si avvia l’applicazione con il comando viene loggata un’eccezione del genere potrebbe significare che c’è un utente che sta usando il database dbes, è necessario scollegare l’utente per configurare il database. Inoltre è necessario chiudere e riavviare l’applicazione. Per maggiori dettagli consulta la documentazione.
 
 **SERVER**
 - Scompattare la cartella compressa e accedere alla cartella Server-Lab-B
