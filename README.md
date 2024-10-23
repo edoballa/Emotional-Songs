@@ -51,7 +51,7 @@ ATTENZIONE: Per motivi di build della jar i file eseguibili non si trovano nella
 ## Istruzioni per l'Esecuzione
 
 **DB INIT**
-Assicurarsi che il database postgres sia acceso e che, però, non ci sia nessun utente collegato al database con nome "dbes".
+- Assicurarsi che il database postgres sia acceso e che, però, non ci sia nessun utente collegato al database con nome "dbes"
 - Scompattare la cartella compressa e accedere alla cartella Lab-B-Server all’interno della cartella DbInit
 - Aprire il command prompt e lanciare il comando cd {path}/DbInit/Lab-B-Server sostituendo a {path} il path corretto, nel mio caso : cd C:\Users\Edoardo\OneDrive\University\Laboratorio_B\Lab-B-Server
 - Lanciare il comando java –jar shadeEmotionalSongs.jar per avviare il db-init
@@ -65,7 +65,7 @@ Assicurarsi che il database postgres sia acceso e che, però, non ci sia nessun 
 **Attenzione:** la finestra del command prompt NON va chiusa.
 
 **CLIENT**
-Il client non partirà se il server non è acceso.
+- Il client non partirà se il server non è acceso
 - Scompattare la cartella compressa e accedere alla cartella Lab.B all’interno della cartella Client
 - Aprire il command prompt e lanciare il comando cd {path}/Client/Lab.B sostituendo a {path} il path corretto, nel mio caso: cd C:\Users\Edoardo\Desktop\University\Laboratorio_B\Lab.B
 - Lanciare il comando java –jar shadeEmotionalSongs.jar per avviare il client
